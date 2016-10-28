@@ -1,2 +1,4 @@
 # hello-world
-just a repository
+
+Hi!
+Folks, Tell me how to earn bitcoins!/
